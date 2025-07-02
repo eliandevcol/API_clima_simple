@@ -1,5 +1,5 @@
 # 🌤️ App del Clima Simple
-![App del clima](/asset/Imagen.png)
+![App del clima](/img/Imagen.png)
 
 Aplicación web básica para consultar el clima actual de cualquier ciudad del mundo utilizando la API de OpenWeatherMap.
 
