@@ -24,6 +24,6 @@ Aplicación web básica para consultar el clima actual de cualquier ciudad del m
 
 ---
 
-👨‍💻 Autor
-Elian Marín Rodríguez
-[Linkedin](https://www.linkedin.com/in/eliandevcol/)
+## 👨‍💻 Autor
+- Elian Marín Rodríguez
+- [Linkedin](https://www.linkedin.com/in/eliandevcol/)
