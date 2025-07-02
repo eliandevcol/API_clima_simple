@@ -1,4 +1,4 @@
-const API_KEY = 'tu_clave_aqui'; //Clave personal de OpenWeatherMap API
+const API_KEY = 'eb60313a0a57b23e71b708e185674efe'; //Clave personal de OpenWeatherMap API
 const searchBtn = document.getElementById('searchBtn'); //Elementos que estan en el HTML
 const cityInput = document.getElementById('cityInput'); // Capturamos elementos del DOM
 const weatherInfo = document.getElementById('weatherInfo'); //Los almacenamos en variables para trabajar con ellos
